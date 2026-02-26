@@ -34,4 +34,4 @@ Procesamiento distribuido de datos con PySpark sobre los mismos datasets del Mun
 
 ## Comentarios 
 - La versión del sqlite no pude configurarla bien en colab, pero si logré terminar el examen con la version que tiene por defecto colab.
-- Probé correr la misma configuración y me dio la version 3.38.2 
+- Probé correr la misma configuración y me dio la version en local 3.38.2 
